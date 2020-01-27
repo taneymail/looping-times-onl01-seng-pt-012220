@@ -1,6 +1,6 @@
 def using_times
 	7.times do
-	  puts "Wingardiam #your code here
+	  puts "Wingardiam Leviosa"#your code here
 end
 
 
